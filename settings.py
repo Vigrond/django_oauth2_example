@@ -31,7 +31,7 @@ SWAGGER_SETTINGS = {
             }
         }
     },
-    'OAUTH2_REDIRECT_URL': 'http://localhost/yourapp/swagger',
+    'OAUTH2_REDIRECT_URL': 'http://localhost/static/drf-yasg/swagger-ui-dist/oauth2-redirect.html',
     'OAUTH2_CONFIG': {
         'clientId': 'yourAppClientId',
         'clientSecret': 'yourAppClientSecret',
