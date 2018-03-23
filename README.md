@@ -16,6 +16,15 @@ https://github.com/axnsan12/drf-yasg
 
 Then use the `settings.py` file as an example to follow off of.
 
+Ensure your `application` is set to something like:
+
+```
+Client type: confidential
+Authorization Grant Type: authorization-code
+Redirect Uris: 'http://localhost/static/drf-yasg/swagger-ui-dist/oauth2-redirect.html'
+
+```
+
 This example uses the `accessCode` flow.
 
 `SWAGGER_SETTINGS` References:
