@@ -1,4 +1,4 @@
-# django_oauth2_example
+# django + oauth2 + swagger example
 
 This is an example `settings.py` to get an `OAUTH2` flow working with `python` `django` and `swagger`.
 
