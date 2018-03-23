@@ -33,7 +33,7 @@ https://github.com/swagger-api/swagger-ui/blob/245428e7cd866f7bb3d07dc36ea23bc14
 
 https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md#security-definitions-object
 
-`OAUTH2 redirect url reference`
+`OAUTH2 redirect url` reference
 
 (note the static path)
 
