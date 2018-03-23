@@ -34,5 +34,7 @@ https://github.com/swagger-api/swagger-ui/blob/245428e7cd866f7bb3d07dc36ea23bc14
 https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md#security-definitions-object
 
 `OAUTH2 redirect url reference`
+
 (note the static path)
+
 https://github.com/axnsan12/drf-yasg/blob/master/src/drf_yasg/static/drf-yasg/swagger-ui-dist/oauth2-redirect.html
