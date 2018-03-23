@@ -21,7 +21,7 @@ REST_FRAMEWORK = {
 SWAGGER_SETTINGS = {
     'USE_SESSION_AUTH': False,
     'SECURITY_DEFINITIONS': {
-        "VirtualAudience Server API - Swagger": {
+        "Your App API - Swagger": {
             "type": "oauth2",
             'authorizationUrl': '/yourapp/o/authorize',
             'tokenUrl': '/yourapp/o/token/',
